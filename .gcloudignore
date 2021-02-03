@@ -1,0 +1,7 @@
+.gcloudignore
+.git
+.gitignore
+.nvmrc
+node_modules/
+test/
+README.md

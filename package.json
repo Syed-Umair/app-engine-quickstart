@@ -1,0 +1,33 @@
+{
+  "name": "app-engine-quickstart",
+  "version": "1.0.0",
+  "description": "Simple Hello World Node.js sample for Google App Engine Standard Environment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "jest --forceExit"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed-Umair/app-engine-quickstart.git"
+  },
+  "keywords": [
+    "google",
+    "appengine",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Syed-Umair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Syed-Umair/app-engine-quickstart/issues"
+  },
+  "homepage": "https://github.com/Syed-Umair/app-engine-quickstart#readme"
+}
